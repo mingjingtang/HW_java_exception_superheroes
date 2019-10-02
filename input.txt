@@ -1,4 +1,4 @@
-Superman
-Batman
-Spiderman
-Wonder Woman
+Superman,Krypton
+Batman,Bruce Wayne
+Spiderman,Peter Parker
+Wonder Woman,Diana Prince
